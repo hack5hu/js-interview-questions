@@ -1,3 +1,5 @@
+import { arrData } from "./mockData/mockData.js";
+
 const binarySearch = (arr, k, low, high) => {
   
   if (high < low) {return -1};
@@ -10,5 +12,7 @@ const binarySearch = (arr, k, low, high) => {
   }else{
     return binarySearch(arr, k,low, mid-1 )  }
 };
-const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-console.log(binarySearch(arr, 4, 0, arr.length-1));
+
+let element= 4
+const result = binarySearch(arrData, element, 0, arrData.length-1)
+console.log(`Index of ${element} in array is ${result}` );
