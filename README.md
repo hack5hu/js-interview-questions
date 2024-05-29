@@ -6,7 +6,7 @@
 
 ---
 
-### Day 1 -- Binary Search 🔍
+### Question 1 -- Binary Search 🔍
 
 #### Problem Statement
 
@@ -16,13 +16,13 @@ Implement a binary search function that takes a sorted array and a target value,
 
 ---
 
-### Day 2 -- JS Question 💡
+### Question 2 --  💡
 
 #### Problem Statement
 
-[Include the description of the Day 2 question here]
+Consider a scenario where you have a nested object with multiple levels of nesting. Your task is to write a JavaScript function totalNumOfKeys that calculates the total number of keys in the object, including keys at all levels of nesting.
 
-[Read more](path/to/your/file)
+[Read more](https://github.com/hack5hu/js-interview-questions/blob/main/totalNumberOfKeys.js)
 
 ---
 
