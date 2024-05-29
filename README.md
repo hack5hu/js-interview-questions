@@ -12,7 +12,7 @@
 
 Implement a binary search function that takes a sorted array and a target value, returning the index of the target value if found, or `-1` if not.
 
-[Read more](path/to/your/file)
+[Read more](https://github.com/hack5hu/js-interview-questions/blob/main/binarySearch.js)
 
 ---
 
@@ -36,7 +36,7 @@ Follow this repository to get a new JavaScript interview question every day. Let
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/js-interview-questions.git
+    git clone https://github.com/hack5hu/js-interview-questions.git
     cd js-interview-questions
     ```
 
