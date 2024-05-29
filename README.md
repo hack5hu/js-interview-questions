@@ -16,7 +16,7 @@ Implement a binary search function that takes a sorted array and a target value,
 
 ---
 
-### Question 2 --  💡
+### Question 2 -- Nested Object Key Count 🗝️
 
 #### Problem Statement
 
