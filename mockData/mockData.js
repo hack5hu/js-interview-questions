@@ -34,3 +34,4 @@ export const person = {
 };
 
 export const arrData = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+export const arrUnsortedData = [34, 7, 23, 32, 5, 62, 32, 2, 12, 1, 9];

@@ -1,4 +1,4 @@
-import { arrData } from "./mockData/mockData.js";
+import { arrData } from "../mockData/mockData.js";
 
 const binarySearch = (arr, k, low, high) => {
   

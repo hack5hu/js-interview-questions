@@ -1,4 +1,4 @@
-import { person } from "./mockData/mockData.js";
+import { person } from "../mockData/mockData.js";
 
 let count = 0
     const totalNumberOfKeys = (obj) => {

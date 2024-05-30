@@ -26,6 +26,16 @@ Consider a scenario where you have a nested object with multiple levels of nesti
 
 ---
 
+### Question 2 -- Merge Sort Algorithm 🌐
+
+#### Problem Statement
+
+Implement the Merge Sort algorithm. Merge Sort is a Divide and Conquer algorithm that divides the input array into two halves, sorts each half recursively, and then merges the two sorted halves.
+
+[Read more](https://github.com/hack5hu/js-interview-questions/blob/main/totalNumberOfKeys.js)
+
+---
+
 ### Stay Tuned for More Challenges!
 
 Follow this repository to get a new JavaScript interview question every day. Let's keep the streak going and improve our coding skills together! 🎉
