@@ -12,7 +12,7 @@
 
 Implement a binary search function that takes a sorted array and a target value, returning the index of the target value if found, or `-1` if not.
 
-[Read more](https://github.com/hack5hu/js-interview-questions/blob/main/binarySearch.js)
+[Read more](https://github.com/hack5hu/js-interview-questions/blob/main/javascript-questions/ques-1_binarySearch.js)
 
 ---
 
@@ -22,7 +22,7 @@ Implement a binary search function that takes a sorted array and a target value,
 
 Consider a scenario where you have a nested object with multiple levels of nesting. Your task is to write a JavaScript function totalNumOfKeys that calculates the total number of keys in the object, including keys at all levels of nesting.
 
-[Read more](https://github.com/hack5hu/js-interview-questions/blob/main/totalNumberOfKeys.js)
+[Read more](https://github.com/hack5hu/js-interview-questions/blob/main/javascript-questions/ques-2_totalNumberOfKeys.js)
 
 ---
 
@@ -32,7 +32,7 @@ Consider a scenario where you have a nested object with multiple levels of nesti
 
 Implement the Merge Sort algorithm. Merge Sort is a Divide and Conquer algorithm that divides the input array into two halves, sorts each half recursively, and then merges the two sorted halves.
 
-[Read more](https://github.com/hack5hu/js-interview-questions/blob/main/totalNumberOfKeys.js)
+[Read more](https://github.com/hack5hu/js-interview-questions/blob/main/javascript-questions/ques-3_mergeShort.js)
 
 ---
 
