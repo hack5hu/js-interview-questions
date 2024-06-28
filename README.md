@@ -9,9 +9,9 @@
 ### Table of Contents
 
 <!-- TOC_START -->
-| No. | Questions |
+| No. | Questions | Description |
 | --- | --------- |
-| Question 1 | | Binary Search 🔍 | [Implement a binary search function that takes a sorted array and a target value, returning the index of the target value if found, or `-1` if not.](https://github.com/hack5hu/js-interview-questions/blob/main/javascript-questions/ques-1_binarySearch.js) |
+| Question 1 | | [Binary Search 🔍](https://github.com/hack5hu/js-interview-questions/blob/main/javascript-questions/ques-1_binarySearch.js) | [Implement a binary search function that takes a sorted array and a target value, returning the index of the target value if found, or `-1` if not.] |
 
 ### Question 1 -- Binary Search 🔍
 
