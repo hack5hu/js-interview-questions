@@ -54,7 +54,7 @@ A big thank you to everyone who contributes to this repository! Feel free to ope
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 ---
 

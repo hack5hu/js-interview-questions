@@ -42,15 +42,15 @@ Please follow these guidelines when contributing:
 
 ## Getting Help
 
-If you need help or have questions, feel free to open an issue or reach out to [maintainer's name or email].
+If you need help or have questions, feel free to open an issue or reach out to [unknown_server unkownserver00@gmail.com].
 
 ## License
 
-By contributing to this project, you agree that your contributions will be licensed under the [project license] (see LICENSE.md).
+By contributing to this project, you agree that your contributions will be licensed under the [MIT License] (see LICENSE.md).
 
 ---
 
-Thank you again for contributing to [Project Name]! We appreciate your time and effort.
+Thank you again for contributing to js-interview-questions! We appreciate your time and effort.
 ```
 
-Replace `js-interview-questions`, `hack5hu`, and `[project license]` with your actual project details. This template provides clear instructions for contributors on how to fork, clone, branch, commit, push changes, and submit pull requests. Adjust the guidelines and instructions as per your project's specific needs and practices.
+Replace `js-interview-questions`, `hack5hu`, and `MIT License` with your actual project details. This template provides clear instructions for contributors on how to fork, clone, branch, commit, push changes, and submit pull requests. Adjust the guidelines and instructions as per your project's specific needs and practices.
