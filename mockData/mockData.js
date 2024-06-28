@@ -34,4 +34,5 @@ export const person = {
 };
 
 export const arrData = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-export const arrUnsortedData = [34, 7, 23, 32, 5, 62, 32, 2, 12, 1, 9];
+export const arrUnsortedData = [34, 7, 23, 32, 5, 62, 31, 2, 12, 1, 9];
+export const arrUnsortedAndDuplicateData = [42, 17, 23, 42, 56, 17, 99, 56, 42, 8, 23, 99, 100, 56, 99, 8, 100];

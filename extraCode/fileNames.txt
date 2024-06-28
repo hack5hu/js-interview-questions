@@ -1,0 +1,9 @@
+ques-1_binarySearch.js
+ques-2_totalNumberOfKeys.js
+ques-3_mergeSort.js
+ques-4_secondLargestNo.js
+ques-5_secondSmalllestNo.js
+ques-6_sortAndRemoveDuplicate.js
+ques-7_deepAndShallow.js
+ques-8_debouncing.js
+ques-9_throttling.js
