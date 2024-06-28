@@ -11,7 +11,9 @@
 <!-- TOC_START -->
 | No. | Questions | Description |
 | --- | --------- | ----------- |
-|  1 | [Binary Search 🔍](https://github.com/hack5hu/js-interview-questions/blob/main/javascript-questions/ques-1_binarySearch.js) | [Implement a binary search function that takes a sorted array and a target value, returning the index of the target value if found, or `-1` if not.] |
+|  1 | [Binary Search 🔍](https://github.com/hack5hu/js-interview-questions/blob/main/javascript-questions/ques-1_binarySearch.js) | Implement a binary search function that takes a sorted array and a target value, returning the index of the target value if found, or `-1` if not. |
+|  2 | [Nested Object Key Count 🗝️](https://github.com/hack5hu/js-interview-questions/blob/main/javascript-questions/ques-2_totalNumberOfKeys.js) | Calculate the total number of keys in a nested object, including keys at all levels of nesting. |
+|  3 | [Merge Sort Algorithm 🌐](https://github.com/hack5hu/js-interview-questions/blob/main/javascript-questions/ques-3_mergeShort.js) | Implement the Merge Sort algorithm, which recursively divides the array into halves, sorts each half, and merges them back together in sorted order. |
 <!-- TOC_END -->
 ### Question 1 -- Binary Search 🔍
 
