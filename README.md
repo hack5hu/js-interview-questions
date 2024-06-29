@@ -20,6 +20,7 @@
 |  7 | [Deep and Shallow Copy](https://github.com/hack5hu/js-interview-questions/blob/main/javascript-questions/ques-7_deepAndShallow.js) | Explain the difference between deep copy and shallow copy in JavaScript with examples. |
 |  8 | [Debouncing Function](https://github.com/hack5hu/js-interview-questions/blob/main/javascript-questions/ques-8_debouncing.js) | Implement a debouncing function to limit the rate at which a function can fire. |
 |  9 | [Throttling Function](https://github.com/hack5hu/js-interview-questions/blob/main/javascript-questions/ques-9_throttling.js) | Implement a throttling function to limit the rate at which a function can be executed. |
+|  10 | [Move element to the Top Function](https://github.com/hack5hu/js-interview-questions/blob/main/javascript-questions/ques-10_moveNameToTop.js) | Implement a throttling function to limit the rate at which a function can be executed. |
 <!-- TOC_END -->
 
 

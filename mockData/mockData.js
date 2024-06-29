@@ -36,3 +36,13 @@ export const person = {
 export const arrData = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 export const arrUnsortedData = [34, 7, 23, 32, 5, 62, 31, 2, 12, 1, 9];
 export const arrUnsortedAndDuplicateData = [42, 17, 23, 42, 56, 17, 99, 56, 42, 8, 23, 99, 100, 56, 99, 8, 100];
+export const people = [
+  { id: 2, name: "Diana", age: 26 },
+  { id: 1, name: "Bob", age: 24 },
+  { id: 5, name: "Charlie", age: 30 },
+  { id: 3, name: "Alice", age: 28 },
+  { id: 4, name: "Ethan", age: 22 },
+];
+
+
+
