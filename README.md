@@ -21,6 +21,7 @@
 |  8 | [Debouncing Function](https://github.com/hack5hu/js-interview-questions/blob/main/javascript-questions/ques-8_debouncing.js) | Implement a debouncing function to limit the rate at which a function can fire. |
 |  9 | [Throttling Function](https://github.com/hack5hu/js-interview-questions/blob/main/javascript-questions/ques-9_throttling.js) | Implement a throttling function to limit the rate at which a function can be executed. |
 |  10 | [Move element to the Top Function](https://github.com/hack5hu/js-interview-questions/blob/main/javascript-questions/ques-10_moveNameToTop.js) | Moves the object with the specified name to the top of the array. |
+|  11 | [Sort the Array of Object](https://github.com/hack5hu/js-interview-questions/blob/main/javascript-questions/ques-11_sortArrayOfObject.js) | Sorts an array of objects based on the 'given' property. |
 <!-- TOC_END -->
 
 
