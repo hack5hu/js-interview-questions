@@ -7,3 +7,6 @@ ques-6_sortAndRemoveDuplicate.js
 ques-7_deepAndShallow.js
 ques-8_debouncing.js
 ques-9_throttling.js
+ques-10_moveNameToTop.js
+ques-11_sortArrayOfObject.js
+ques-12_isTwoObjectEqual.js

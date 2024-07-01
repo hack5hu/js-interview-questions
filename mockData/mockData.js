@@ -43,6 +43,16 @@ export const people = [
   { id: 3, name: "Alice", age: 28 },
   { id: 4, name: "Ethan", age: 22 },
 ];
+export const objA = {
+  id: 1,
+  name: "Alice",
+  details: { age: 25, city: "Wonderland", number: [12, 3, 4] },
+};
+export const objB = {
+  id: 1,
+  name: "Alice",
+  details: { age: 25, city: "Wonderland", number: [12, 3, 4] },
+};
 
 
 

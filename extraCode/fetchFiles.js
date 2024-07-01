@@ -22,16 +22,23 @@ function fetchFileNames(folderPath) {
   });
 }
 
-// Main function to fetch file names and write them to a file
+// Main function to fetch file names, sort them, and write them to a file
 async function main() {
   try {
     const files = await fetchFileNames(folderPath);
+
+    // Sort file names based on the numeric part in the filename
+    files.sort((a, b) => {
+      const [, numA] = a.match(/ques-(\d+)_/) || [, Infinity];
+      const [, numB] = b.match(/ques-(\d+)_/) || [, Infinity];
+      return parseInt(numA) - parseInt(numB);
+    });
 
     // Get current script's directory path
     const __dirname = path.dirname(new URL(import.meta.url).pathname);
     const outputPath = path.join(__dirname, "fileNames.txt");
 
-    // Write file names to a text file
+    // Write sorted file names to a text file
     fs.writeFile(outputPath, files.join("\n"), "utf8", (err) => {
       if (err) {
         console.error("Error writing to file:", err);
