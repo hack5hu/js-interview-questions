@@ -10,3 +10,7 @@ ques-9_throttling.js
 ques-10_moveNameToTop.js
 ques-11_sortArrayOfObject.js
 ques-12_isTwoObjectEqual.js
+ques-13_mapPolyfill.js
+ques-14_filterPolyfill.js
+ques-15_reducePolyfill.js
+ques-16_forEachPolyfill.js
