@@ -22,8 +22,8 @@
 |  9 | [Throttling Function](https://github.com/hack5hu/js-interview-questions/blob/main/javascript-questions/ques-9_throttling.js) | Implement a throttling function to limit the rate at which a function can be executed. |
 |  10 | [Move element to the Top Function](https://github.com/hack5hu/js-interview-questions/blob/main/javascript-questions/ques-10_moveNameToTop.js) | Moves the object with the specified name to the top of the array. |
 |  11 | [Sort the Array of Object](https://github.com/hack5hu/js-interview-questions/blob/main/javascript-questions/ques-11_sortArrayOfObject.js) | Sorts an array of objects based on the 'given' property. |
-|  12 | [Array.prototype.map](https://github.com/hack5hu/js-interview-questions/blob/main/javascript-questions/ques-12_isTwoObjectEqual.js) | Creates a polyfill for the Array.prototype.map method. |
-|  13 | [Check two object are equal or not](https://github.com/hack5hu/js-interview-questions/blob/main/javascript-questions/ques-13_mapPolyfill.js) | Compares two objects for deep equality |
+|  12 | [Check two object are equal or not](https://github.com/hack5hu/js-interview-questions/blob/main/javascript-questions/ques-12_isTwoObjectEqual.js) | Creates a polyfill for the Array.prototype.map method. |
+|  13 | [Array.prototype.map](https://github.com/hack5hu/js-interview-questions/blob/main/javascript-questions/ques-13_mapPolyfill.js) | Compares two objects for deep equality |
 |  14 | [Array.prototype.filter](https://github.com/hack5hu/js-interview-questions/blob/main/javascript-questions/ques-14_filterPolyfill.js) | Creates a polyfill for the Array.prototype.filter method. |
 |  15 | [Array.prototype.reduce](https://github.com/hack5hu/js-interview-questions/blob/main/javascript-questions/ques-15_reducePolyfill.js) | Creates a polyfill for the Array.prototype.reduce method. |
 |  16 | [Array.prototype.forEach](https://github.com/hack5hu/js-interview-questions/blob/main/javascript-questions/ques-16_forEachPolyfill.js) | Creates a polyfill for the Array.prototype.forEach method. |
