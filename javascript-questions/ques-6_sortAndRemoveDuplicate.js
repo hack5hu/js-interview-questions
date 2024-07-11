@@ -11,11 +11,6 @@ const sortAndRemoveDuplicateMethodOne = (arr) => {
     return uniqueArr;
 };
 
-/**
- * Implement a function to sort an array of integers and remove duplicate elements.
- * @param {Array} arr The array of numbers to be sorted and processed.
- * @returns {Array} A new array with sorted numbers and duplicates removed.
- */
 const sortAndRemoveDuplicateMethodTwo = (arr) => {
     const sortedArr = arr.sort((a, b) => a - b); 
     let unique = [];
@@ -26,9 +21,5 @@ const sortAndRemoveDuplicateMethodTwo = (arr) => {
     return unique;
 };
 
-// Example usage with mock data
 console.log("First method:", sortAndRemoveDuplicateMethodOne(arrUnsortedAndDuplicateData));
-
-
-
 console.log("Second method:", sortAndRemoveDuplicateMethodTwo(arrUnsortedAndDuplicateData));

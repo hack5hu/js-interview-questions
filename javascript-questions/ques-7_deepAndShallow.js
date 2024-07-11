@@ -12,7 +12,7 @@ function deepCopy(obj) {
   if (Array.isArray(obj)) {
     const arrCopy = [];
     for (let i = 0; i < obj.length; i++) {
-      arrCopy[i] = deepCopy(obj[i]); // Recursively deep copy each element of the array
+      arrCopy[i] = deepCopy(obj[i]); 
     }
     return arrCopy;
   }
@@ -20,7 +20,7 @@ function deepCopy(obj) {
   const objCopy = {};
   for (let key in obj) {
     if (obj.hasOwnProperty(key)) {
-      objCopy[key] = deepCopy(obj[key]); // Recursively deep copy each property of the object
+      objCopy[key] = deepCopy(obj[key]); 
     }
   }
   return objCopy;

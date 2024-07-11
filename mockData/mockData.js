@@ -53,6 +53,8 @@ export const objB = {
   name: "Alice",
   details: { age: 25, city: "Wonderland", number: [12, 3, 4] },
 };
+export const unsortedArray = [3, -1, 7, -5, 2, -8, 0, 4, -3];
+
 
 
 

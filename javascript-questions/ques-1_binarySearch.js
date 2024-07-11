@@ -17,11 +17,11 @@ const binarySearch = (arr, ele, low, high) => {
   let mid = Math.floor((high + low) / 2);
 
   if (arr[mid] === ele) {
-    return mid; // Element found, return index
+    return mid; 
   } else if (arr[mid] < ele) {
-    return binarySearch(arr, ele, mid + 1, high); // Search in the right half
+    return binarySearch(arr, ele, mid + 1, high); 
   } else {
-    return binarySearch(arr, ele, low, mid - 1); // Search in the left half
+    return binarySearch(arr, ele, low, mid - 1); 
   }
 };
 
